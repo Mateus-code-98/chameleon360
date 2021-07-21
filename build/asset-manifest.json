@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chameleon360/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/chameleon360/static/js/main.fe56a7eb.chunk.js",
+    "main.js.map": "/chameleon360/static/js/main.fe56a7eb.chunk.js.map",
+    "runtime-main.js": "/chameleon360/static/js/runtime-main.cb599c45.js",
+    "runtime-main.js.map": "/chameleon360/static/js/runtime-main.cb599c45.js.map",
+    "static/js/2.c5013eb0.chunk.js": "/chameleon360/static/js/2.c5013eb0.chunk.js",
+    "static/js/2.c5013eb0.chunk.js.map": "/chameleon360/static/js/2.c5013eb0.chunk.js.map",
+    "static/js/3.234179fe.chunk.js": "/chameleon360/static/js/3.234179fe.chunk.js",
+    "static/js/3.234179fe.chunk.js.map": "/chameleon360/static/js/3.234179fe.chunk.js.map",
+    "index.html": "/chameleon360/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/chameleon360/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c5013eb0.chunk.js.LICENSE.txt": "/chameleon360/static/js/2.c5013eb0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/chameleon360/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb599c45.js",
+    "static/js/2.c5013eb0.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.fe56a7eb.chunk.js"
+  ]
+}
